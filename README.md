@@ -1,0 +1,1 @@
+# Parametrsiz_funksiyalar
